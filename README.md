@@ -7,7 +7,7 @@ This script will let you set up your own VPN server in no more than a minute, ev
 Run the script and follow the assistant:
 
 ````
-bash <(curl -sL https://raw.githubusercontent.com/PhoenixxZ2023/WireGuard/master/install.sh)
+bash <(curl -sL https://raw.githubusercontent.com/PhoenixxZ2023/WireGuard/master/wireguard-install.sh)
 ````
 
 Once it ends, you can run it again to add more users, remove some of them or even completely uninstall WireGuard.
